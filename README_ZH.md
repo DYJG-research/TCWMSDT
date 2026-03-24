@@ -227,19 +227,6 @@ results/your-model-run/
 
 欢迎提交贡献！请随时提交Pull Request。
 
-## 📚 引用
-
-如在研究中引用此基准测试，请引用：
-
-```bibtex
-@software{TCWMSDT,
-  title = {TCWMSDT: 中医辨证论治任务基准测试},
-  author = {Your Organization},
-  year = {2026},
-  url = {https://github.com/your-org/TCWMSDT}
-}
-```
-
 ## ⚠️ 免责声明
 
 本基准测试仅用于研究和教育目的。评估结果不应作为医疗建议使用。请始终咨询合格的医疗专业人员以获取医疗决策建议。
