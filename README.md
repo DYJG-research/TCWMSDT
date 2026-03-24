@@ -226,18 +226,6 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📚 Citation
-
-If you use this benchmark in your research, please cite:
-
-```bibtex
-@software{tcwm-best4sdt,
-  title = {TCWM-BEST4SDT: Benchmark for TCWM Syndrome Differentiation Task},
-  author = {Your Organization},
-  year = {2026},
-  url = {https://github.com/your-org/TCWM-BEST4SDT}
-}
-```
 
 ## ⚠️ Disclaimer
 
