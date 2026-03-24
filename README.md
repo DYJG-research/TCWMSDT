@@ -10,7 +10,7 @@ A comprehensive benchmark framework for evaluating Large Language Models (LLMs) 
 
 ## 📋 Overview
 
-TCWM-BEST4SDT (Traditional Chinese Medicine Benchmark for Syndrome Differentiation Task) is designed to systematically assess the capability of LLMs in performing TCWM clinical diagnosis, particularly syndrome differentiation (辨证论治). The benchmark focuses on spleen and stomach diseases, which are among the most common conditions in TCWM practice.
+TCWMSDT (Traditional Chinese Medicine Benchmark for Syndrome Differentiation Task) is designed to systematically assess the capability of LLMs in performing TCWM clinical diagnosis, particularly syndrome differentiation (辨证论治). The benchmark focuses on spleen and stomach diseases, which are among the most common conditions in TCWM practice.
 
 ### Key Features
 
@@ -24,7 +24,7 @@ TCWM-BEST4SDT (Traditional Chinese Medicine Benchmark for Syndrome Differentiati
 ## 🏗️ Architecture
 
 ```
-TCWM-BEST4SDT/
+TCWMSDT/
 ├── tcwm_benchmark.py          # Main benchmark runner
 ├── tools/
 │   ├── model_interface.py    # Model abstraction layer (API & Local)
@@ -74,8 +74,8 @@ pip install -r requirements.txt
 ### Installation
 
 ```bash
-git clone https://github.com/your-org/TCWM-BEST4SDT.git
-cd TCWM-BEST4SDT
+git clone https://github.com/your-org/TCWMSDT.git
+cd TCWMSDT
 pip install -r requirements.txt
 ```
 
