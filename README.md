@@ -10,7 +10,7 @@ A comprehensive benchmark framework for evaluating Large Language Models (LLMs) 
 
 ## 📋 Overview
 
-TCWMSDT (Traditional Chinese Medicine Benchmark for Syndrome Differentiation Task) is designed to systematically assess the capability of LLMs in performing TCWM clinical diagnosis, particularly syndrome differentiation (辨证论治). The benchmark focuses on spleen and stomach diseases, which are among the most common conditions in TCWM practice.
+TCWMSDT (Traditional Chinese and Western Medicine Benchmark for Syndrome Differentiation Task) is designed to systematically assess the capability of LLMs in performing TCWM clinical diagnosis, particularly syndrome differentiation (辨证论治). The benchmark focuses on spleen and stomach diseases, which are among the most common conditions in TCWM practice.
 
 ### Key Features
 
