@@ -1,4 +1,4 @@
-# TCWM-BEST4SDT
+# TCWMSDT
 
 <p align="center">
   <img src="https://img.shields.io/badge/许可证-Apache%202.0-blue.svg" alt="License">
@@ -10,7 +10,7 @@
 
 ## 📋 项目简介
 
-TCWM-BEST4SDT（Traditional Chinese Medicine Benchmark for Syndrome Differentiation Task，中医辨证论治任务基准测试）旨在系统评估大语言模型在中医临床诊断，特别是辨证论治方面的能力。本基准测试聚焦于脾胃病，这是中医临床实践中最常见的疾病类型之一。
+TCWMSDT（Traditional Chinese and Western Medicine Benchmark for Syndrome Differentiation Task，中医辨证论治任务基准测试）旨在系统评估大语言模型在中医临床诊断，特别是辨证论治方面的能力。本基准测试聚焦于脾胃病，这是中医临床实践中最常见的疾病类型之一。
 
 ### 核心特性
 
@@ -24,7 +24,7 @@ TCWM-BEST4SDT（Traditional Chinese Medicine Benchmark for Syndrome Differentiat
 ## 🏗️ 项目架构
 
 ```
-TCWM-BEST4SDT/
+TCWMSDT/
 ├── tcwm_benchmark.py          # 主测试框架入口
 ├── tools/
 │   ├── model_interface.py    # 模型抽象层（API & 本地）
@@ -75,8 +75,8 @@ pip install -r requirements.txt
 ### 安装
 
 ```bash
-git clone https://github.com/your-org/TCWM-BEST4SDT.git
-cd TCWM-BEST4SDT
+git clone https://github.com/your-org/TCWMSDT.git
+cd TCWMSDT
 pip install -r requirements.txt
 ```
 
@@ -232,11 +232,11 @@ results/your-model-run/
 如在研究中引用此基准测试，请引用：
 
 ```bibtex
-@software{tcwm-best4sdt,
-  title = {TCWM-BEST4SDT: 中医辨证论治任务基准测试},
+@software{TCWMSDT,
+  title = {TCWMSDT: 中医辨证论治任务基准测试},
   author = {Your Organization},
   year = {2026},
-  url = {https://github.com/your-org/TCWM-BEST4SDT}
+  url = {https://github.com/your-org/TCWMSDT}
 }
 ```
 
