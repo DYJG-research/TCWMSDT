@@ -1,0 +1,10 @@
+{
+  "data_path": "./finall_exam_data/TCWM-PIWEIBING.json",
+  "local_model_gpu_id": -1,
+  "llm_judge_api_host": "127.0.0.1",
+  "llm_judge_api_port": 11118,
+  "llm_judge_model_name": "Qwen3-32B",
+  "llm_judge_api_key": "judge_model_key",
+  "max_retries": 3,
+  "checkpoint_interval": 1
+}
